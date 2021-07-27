@@ -4,7 +4,7 @@ Git is a version control system that allows us to trrach changes and comit them 
 Here is a growing collection of resources and helpful commands to know when working with git. 
 
 ## Git Commands
-- [git config](./Commands/Config.md)
+- [git config](./Commands/config.md)
 - [git init](./Commands/Init.md)
 - [git add](./Commands/Add.md)
 - [git commit](./Commands/Commit.md)
